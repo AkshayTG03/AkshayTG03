@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @AkshayTG03
+- 👋 Hi, I’m Akshay
 - 👀 I’m interested in video games
-- 🌱 I’m currently learning python,java, c# with unity
-- 📫 How to reach me : akshaytg2003@gmail.com
+- 🌱 I’m currently learning python, java, c# with unity
 
 <!---
 AkshayTG03/AkshayTG03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
