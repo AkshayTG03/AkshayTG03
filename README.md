@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Akshay</h1>
+<h1 align="center">Hi, I'm Akshay</h1>
 <h3 align="center">A computer science enthusiast from India</h3>
 
-- 🔭 I’m currently a first-year student in **University of Adelaide** pursuing a Masters degree in Computing and Innovation
+- I’m currently a first-year student in **University of Adelaide** pursuing a Masters degree in Computing and Innovation
 
-- 🏫 I did my Bachelor of Technology in Electrical and Electronics Engineering from Amrita Vishwa Vidyapeetham
+- I did my Bachelor of Technology in Electrical and Electronics Engineering from Amrita Vishwa Vidyapeetham
 
-- 👯 I’m looking to collaborate on **Python and Unity 5 projects**
+- I’m looking to collaborate on **Python and Unity 5 projects**
 
-- 📫 How to reach me **akshaytg2003@gmail.com**
+- How to reach me **akshaytg2003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
